@@ -5,28 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1c6f59e-c842-45a5-a92e-4e855ef37ce1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/tennis-score/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/tennis-score/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/tennis-score/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/tennis-score/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/tennis-score/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/tennis-score/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/tennis-score/src/main/java/com/danieltessi/tennis_score/TennisScoreApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/tennis-score/src/main/java/com/danieltessi/tennis_score/config/CorsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/tennis-score/src/main/java/com/danieltessi/tennis_score/controller/TennisScoreController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/tennis-score/src/main/java/com/danieltessi/tennis_score/model/ScoreRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/tennis-score/src/main/java/com/danieltessi/tennis_score/model/ScoreResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/tennis-score/src/main/java/com/danieltessi/tennis_score/service/TennisScoreService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/tennis-score/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/tennis-score/src/test/java/com/danieltessi/tennis_score/TennisScoreApplicationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/tennis-score/src/test/java/com/danieltessi/tennis_score/service/TennisScoreServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/specifications/fiche-fonctionnelle.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/specifications/fiche-technique.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/specifications/tennis-score.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/tennis-score/src/main/java/com/danieltessi/tennis_score/config/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/tennis-score/src/main/java/com/danieltessi/tennis_score/config/CorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/tennis-score/src/main/java/com/danieltessi/tennis_score/controller/TennisScoreController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/tennis-score/src/main/java/com/danieltessi/tennis_score/controller/TennisScoreController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/tennis-score-ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/tennis-score-ui/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/tennis-score-ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/tennis-score-ui/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/tennis-score-ui/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/tennis-score-ui/src/App.tsx" afterDir="false" />
@@ -44,7 +28,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend/tennis-score-ui" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -127,7 +111,7 @@
       <workItem from="1751317245625" duration="2787000" />
       <workItem from="1751371547486" duration="922000" />
       <workItem from="1751372550536" duration="831000" />
-      <workItem from="1751373395100" duration="9184000" />
+      <workItem from="1751373395100" duration="10126000" />
     </task>
     <servers />
   </component>

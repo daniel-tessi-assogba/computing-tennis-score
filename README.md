@@ -1,8 +1,9 @@
 # 🎾 Calculateur de score de tennis
 
-[![Global Project](https://github.com/daniel-tessi-assogba/computing-tennis-score)  
-[![Backend Structure](https://img.shields.io/badge/licence-MIT-blue.svg)](LICENSE)  
-[![Frontend Structure](https://img.shields.io/badge/Java-17%2B-orange)](https://www.oracle.com/java/)
+[![Global Project](https://github.com/daniel-tessi-assogba/computing-tennis-score)
+[![Bakend Structure](https://github.com/daniel-tessi-assogba/computing-tennis-score/tree/main/backend/README.md)](LICENCE)
+[![Frontend Structure](https://github.com/daniel-tessi-assogba/computing-tennis-score/tree/main/frontend/README.md)](LICENSE)  
+
 
 ---
 
