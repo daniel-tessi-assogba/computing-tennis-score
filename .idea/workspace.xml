@@ -10,7 +10,6 @@
       <change beforePath="$PROJECT_DIR$/frontend/tennis-score-ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/tennis-score-ui/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/tennis-score-ui/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/tennis-score-ui/src/App.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/specifications/fiche-fonctionnelle.md" beforeDir="false" afterPath="$PROJECT_DIR$/specifications/fiche-fonctionnelle.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/specifications/fiche-technique.md" beforeDir="false" afterPath="$PROJECT_DIR$/specifications/fiche-technique.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +107,7 @@
       <workItem from="1751317245625" duration="2787000" />
       <workItem from="1751371547486" duration="922000" />
       <workItem from="1751372550536" duration="831000" />
-      <workItem from="1751373395100" duration="10779000" />
+      <workItem from="1751373395100" duration="10876000" />
     </task>
     <servers />
   </component>

@@ -1,16 +1,16 @@
-🔧 Nom du projet
+Nom du projet
 Tennis Score Computer
 
 1. Spécifications fonctionnelles 
 2. Objectif
 Simuler et afficher l'évolution du score d'un jeu de tennis simple entre deux joueurs (A et B), à partir d'une chaîne d’entrée contenant la suite des points gagnés.
 
- Acteurs
+Acteurs
 Joueur A
 
 Joueur B
 
- Entrée
+Entrée
 Une chaîne de caractères (String) contenant uniquement les caractères A ou B (ex: "ABABAA"), représentant les points gagnés respectivement par le joueur A ou B.
 
 Sortie
@@ -33,7 +33,7 @@ S’il gagne le point suivant, il gagne la partie
 
 Sinon, on revient à deuce
 
-📝 Exemple de sortie
+Exemple de sortie
 Pour l’entrée "ABABAA", la sortie attendue est :
 
 text
