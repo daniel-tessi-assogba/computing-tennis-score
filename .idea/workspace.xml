@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1c6f59e-c842-45a5-a92e-4e855ef37ce1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/backend/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/tennis-score/src/main/java/com/danieltessi/tennis_score/config/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/tennis-score/src/main/java/com/danieltessi/tennis_score/config/CorsConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/tennis-score/src/main/java/com/danieltessi/tennis_score/controller/TennisScoreController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/tennis-score/src/main/java/com/danieltessi/tennis_score/controller/TennisScoreController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/tennis-score-ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/tennis-score-ui/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/tennis-score-ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/tennis-score-ui/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/tennis-score-ui/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/tennis-score-ui/src/App.tsx" afterDir="false" />
@@ -111,7 +107,7 @@
       <workItem from="1751317245625" duration="2787000" />
       <workItem from="1751371547486" duration="922000" />
       <workItem from="1751372550536" duration="831000" />
-      <workItem from="1751373395100" duration="10126000" />
+      <workItem from="1751373395100" duration="10336000" />
     </task>
     <servers />
   </component>
