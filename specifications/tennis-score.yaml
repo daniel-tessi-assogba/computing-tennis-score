@@ -1,0 +1,73 @@
+openapi: 3.1.0
+info:
+  title: Tennis Score API
+  description: API to compute the score of a tennis game given a sequence of points.
+  version: 1.0.0
+
+servers:
+  - url: http://localhost:8080
+    description: Local Spring Boot server
+
+paths:
+  /api/tennis/score:
+    post:
+      summary: Compute tennis score
+      description: Accepts a sequence of points and returns the computed tennis score including deuce, advantage, and winner.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/ScoreRequest'
+      responses:
+        '200':
+          description: Score computed successfully
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ScoreResponse'
+        '400':
+          description: Invalid input
+        '500':
+          description: Server error
+
+components:
+  schemas:
+    ScoreRequest:
+      type: object
+      properties:
+        sequence:
+          type: string
+          example: "ABABABB"
+      required:
+        - sequence
+
+    ScoreResponse:
+      type: object
+      properties:
+        winner:
+          type: string
+          nullable: true
+          example: "Player A"
+        deuce:
+          type: boolean
+          example: true
+        advantagePlayer:
+          type: string
+          nullable: true
+          example: "Player B"
+        scoreHistory:
+          type: array
+          items:
+            type: string
+            example: "Player A scores. Score: 15 - 0"
+        scores:
+          type: object
+          properties:
+            playerA:
+              type: string
+              example: "40"
+            playerB:
+              type: string
+              example: "Adv"
+

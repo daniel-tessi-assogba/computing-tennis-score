@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1c6f59e-c842-45a5-a92e-4e855ef37ce1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/tennis-score/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/tennis-score/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/tennis-score/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/tennis-score/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/tennis-score/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/tennis-score/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/tennis-score/src/main/java/com/danieltessi/tennis_score/TennisScoreApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/tennis-score/src/main/java/com/danieltessi/tennis_score/config/CorsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/tennis-score/src/main/java/com/danieltessi/tennis_score/controller/TennisScoreController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/tennis-score/src/main/java/com/danieltessi/tennis_score/model/ScoreRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/tennis-score/src/main/java/com/danieltessi/tennis_score/model/ScoreResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/tennis-score/src/main/java/com/danieltessi/tennis_score/service/TennisScoreService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/tennis-score/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/tennis-score/src/test/java/com/danieltessi/tennis_score/TennisScoreApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/tennis-score/src/test/java/com/danieltessi/tennis_score/service/TennisScoreServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/specifications/fiche-fonctionnelle.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/specifications/fiche-technique.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/specifications/tennis-score.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/tennis-score-ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/tennis-score-ui/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/tennis-score-ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/tennis-score-ui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/tennis-score-ui/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/tennis-score-ui/src/App.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2zF69Tgx9bwZpAStmUiohVIV3P4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.TennisScoreServiceTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.TennisScoreApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Volumes/danieldata/IT Trainings/computing-tennis-score",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "ts.external.directory.path": "/Volumes/danieldata/IT Trainings/computing-tennis-score/frontend/tennis-score-ui/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.TennisScoreServiceTest">
+    <configuration name="TennisScoreServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tennis-score" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.danieltessi.tennis_score.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.danieltessi.tennis_score.service" />
+      <option name="MAIN_CLASS_NAME" value="com.danieltessi.tennis_score.service.TennisScoreServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TennisScoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="tennis-score" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.danieltessi.tennis_score.TennisScoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TennisScoreServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26094.121" />
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-IU-251.26094.121" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1c6f59e-c842-45a5-a92e-4e855ef37ce1" name="Changes" comment="" />
+      <created>1751314322211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751314322211</updated>
+      <workItem from="1751314323360" duration="2636000" />
+      <workItem from="1751317245625" duration="2787000" />
+      <workItem from="1751371547486" duration="922000" />
+      <workItem from="1751372550536" duration="831000" />
+      <workItem from="1751373395100" duration="9184000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
